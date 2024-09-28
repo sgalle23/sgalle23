@@ -1,4 +1,8 @@
 ## Hi there 👋
+My name Sonia and I’m exploring the exciting world of Data Analytics. 📊
+
+I’m currently learning how to analyze and visualize data using tools like Excel, SQL, and Power BI. My goal is to apply these skills to solve real-world problems and contribute to data-driven projects.
+
 
 <!--
 **sgalle23/sgalle23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
